@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS</Machine>
+    <WindowsUser>gökçe</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>31329GkeDemir.11.SnfKitapzumleri</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5C8D8E040D75905E7BC6633C1F2E9962CCC6A55A9D6611B9198AD2E1351E1B78</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>31329GkeDemir.11.SnfKitapzumleri_1.1.0.1_neutral__97ngnz5mx8h7c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>31329GkeDemir.11.SnfKitapzumleri_97ngnz5mx8h7c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>31329GkeDemir.11.SnfKitapzumleri</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D94A7BD3-2EAB-4797-8DB7-952EDF61A55D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.1</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-12T21:22:25.563</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\bin\Debug\11.Sınıf Kitap Çözümleri.Windows.exe">
+      <PackagePath>11.Sınıf Kitap Çözümleri.Windows.exe</PackagePath>
+      <Modified>2014-07-12T21:22:24.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\blackboard.jpg">
+      <PackagePath>Assets\blackboard.jpg</PackagePath>
+      <Modified>2014-06-22T17:47:10.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\last.jpg">
+      <PackagePath>Assets\last.jpg</PackagePath>
+      <Modified>2014-07-04T22:11:59.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 108-121.txt">
+      <PackagePath>Assets\dil 108-121.txt</PackagePath>
+      <Modified>2014-07-06T21:11:35.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 11-23.txt">
+      <PackagePath>Assets\dil 11-23.txt</PackagePath>
+      <Modified>2014-07-06T21:11:15.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 123-132.txt">
+      <PackagePath>Assets\dil 123-132.txt</PackagePath>
+      <Modified>2014-07-06T21:11:35.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 134-146.txt">
+      <PackagePath>Assets\dil 134-146.txt</PackagePath>
+      <Modified>2014-07-06T21:11:35.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 147-161.txt">
+      <PackagePath>Assets\dil 147-161.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 162-174.txt">
+      <PackagePath>Assets\dil 162-174.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 175-177.txt">
+      <PackagePath>Assets\dil 175-177.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 178-192.txt">
+      <PackagePath>Assets\dil 178-192.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 193-208.txt">
+      <PackagePath>Assets\dil 193-208.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 209-221.txt">
+      <PackagePath>Assets\dil 209-221.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 27-41.txt">
+      <PackagePath>Assets\dil 27-41.txt</PackagePath>
+      <Modified>2014-07-06T21:11:15.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 42-51.txt">
+      <PackagePath>Assets\dil 42-51.txt</PackagePath>
+      <Modified>2014-07-06T21:11:15.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 53-65.txt">
+      <PackagePath>Assets\dil 53-65.txt</PackagePath>
+      <Modified>2014-07-06T21:11:15.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 66-80.txt">
+      <PackagePath>Assets\dil 66-80.txt</PackagePath>
+      <Modified>2014-07-06T21:11:15.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 81-92.txt">
+      <PackagePath>Assets\dil 81-92.txt</PackagePath>
+      <Modified>2014-07-06T21:11:15.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\dil 96-107.txt">
+      <PackagePath>Assets\dil 96-107.txt</PackagePath>
+      <Modified>2014-07-06T21:11:15.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 106-109.txt">
+      <PackagePath>Assets\edb 106-109.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 11-18.txt">
+      <PackagePath>Assets\edb 11-18.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 110-121.txt">
+      <PackagePath>Assets\edb 110-121.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 122-135.txt">
+      <PackagePath>Assets\edb 122-135.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 139-144.txt">
+      <PackagePath>Assets\edb 139-144.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 145-158.txt">
+      <PackagePath>Assets\edb 145-158.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 159-163.txt">
+      <PackagePath>Assets\edb 159-163.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 169-172.txt">
+      <PackagePath>Assets\edb 169-172.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 175-184.txt">
+      <PackagePath>Assets\edb 175-184.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 187-198.txt">
+      <PackagePath>Assets\edb 187-198.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 201-223.txt">
+      <PackagePath>Assets\edb 201-223.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 22-27.txt">
+      <PackagePath>Assets\edb 22-27.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 28-39.txt">
+      <PackagePath>Assets\edb 28-39.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 40-50.txt">
+      <PackagePath>Assets\edb 40-50.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 59-64.txt">
+      <PackagePath>Assets\edb 59-64.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\edb 81-99.txt">
+      <PackagePath>Assets\edb 81-99.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\Uyarı.txt">
+      <PackagePath>Assets\Uyarı.txt</PackagePath>
+      <Modified>2014-07-06T21:11:36.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-08T21:20:15.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-08T21:22:11.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-08T21:21:20.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-07T21:06:59.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-22T17:54:11.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\bin\Debug\DersBolumu.xbf">
+      <PackagePath>DersBolumu.xbf</PackagePath>
+      <Modified>2014-07-06T21:51:38.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-12T18:44:29.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\bin\Debug\11.Sınıf Kitap Çözümleri.Windows.xr.xml">
+      <PackagePath>11.Sınıf Kitap Çözümleri.Windows.xr.xml</PackagePath>
+      <Modified>2014-07-12T16:45:04.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Desktop\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri\11.Sınıf Kitap Çözümleri.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-12T21:22:25.151</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
